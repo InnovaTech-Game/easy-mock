@@ -25,6 +25,6 @@ npm-debug.log
 yarn-debug.log*
 yarn-error.log*
 dist
-config
+data
 views/config.json
 public/upload
